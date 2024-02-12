@@ -31,3 +31,15 @@ This is a simple chess timer for ARM devices. The timer is controlled by two but
 
 ## Video of the project
 [![A Video of the project](https://github.com/Walid-Kh/Arm-Chess-Timer/blob/master/assets/blue-pill.png)](https://www.youtube.com/watch?v=0KKOslfDLpI)
+
+
+## Contributions
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/Walid-Kh" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/94529949?v=4" width="150px;" alt="Walid Khamees"/>
+    <br />
+    <sub><b>Walid Khamees</b></sub></a>
+    </td>
+ </table>
