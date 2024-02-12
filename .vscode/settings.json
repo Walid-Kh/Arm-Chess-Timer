@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "rcc.h": "c",
+        "gpio.h": "c",
+        "std_types.h": "c",
+        "reg.h": "c",
+        "timer.h": "c",
+        "exti.h": "c",
+        "timer_common_all.h": "c",
+        "bit_operations.h": "c",
+        "nvic.h": "c",
+        "exti_common_all.h": "c",
+        "external_interrupts.h": "c",
+        "lcd.h": "c",
+        "util.h": "c",
+        "constants.h": "c"
+    },
+    "cSpell.words": [
+        "exti"
+    ]
+}
