@@ -30,4 +30,4 @@ This is a simple chess timer for ARM devices. The timer is controlled by two but
 ![image](https://github.com/Walid-Kh/Arm-Chess-Timer/blob/master/assets/Time.jpg)
 
 ## Video of the project
-![Video](https://youtu.be/0KKOslfDLpI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0KKOslfDLpI?si=Ro6-LcQMaOQLSPL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
